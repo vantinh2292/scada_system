@@ -5,7 +5,7 @@
     "platforms": {
         "windows-x86_64": {
             "signature": "NỘI_DUNG_FILE_.sig_CỦA_BẢN_WINDOWS",
-            "url": "https://your-domain.com/scada-v0.1.1-x86_64.nsis.zip"
+            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.1.4/Scada.System_4.1.3_x64-setup.exe"
         },
         "linux-x86_64": {
             "signature": "NỘI_DUNG_FILE_.sig_CỦA_BẢN_LINUX",
