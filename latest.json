@@ -5,7 +5,7 @@
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MUhYWUIzMVpLTzRTclJ0T0lzS1ZRSUZLNFRGallYZmdPbmJpSmlQdnJtMVVjNlNqVFlEN1lLOTJzVmkzMnYvRmZWQ1dHa0lDRUhveStPRjJtZXZtQ2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTgzNDEwCWZpbGU6U2NhZGEgU3lzdGVtXzQuMS42X3g2NC1zZXR1cC5leGUKMVJvUGFkUWE5ZTZnanpmWVdSSkUwT1R0WXFjay8vR0dvTHdoRVI1bndrVHA4bzdVcUQ5UU5zbENJTmg2TE45YTJBWEp1SmJqQjRsaHNrUlJMM0JyREE9PQo=",
-            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.1.6/Scada.System_4.1.6_x64-setup.exe"
+            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.1.7/Scada.System_4.1.7_x64-setup.exe"
         },
         "linux-x86_64": {
             "signature": "NỘI_DUNG_FILE_.sig_CỦA_BẢN_LINUX",
