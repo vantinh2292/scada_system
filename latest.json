@@ -1,6 +1,6 @@
 {
     "version": "4.1.8",
-    "notes": "Fix Custom Header Web",
+    "notes": "Prevent Double App",
     "pub_date": "2026-09-05T19:00:00Z",
     "platforms": {
         "windows-x86_64": {
