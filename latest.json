@@ -1,11 +1,11 @@
 {
-    "version": "4.2.1",
+    "version": "4.2.2",
     "notes": "EthernetIP Driver",
     "pub_date": "2026-09-10T19:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MUU5N3dKUzdUOFdpSHJlRE1JY1pKbVVlK1RwZVhOTStWTlpRZUE0bFFnSXZPbTlEVkQ2Z3dzdEJidVZyK1poNjZrYXlBMkppK2M4Szc0Z2gwbEpKZHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDU2OTIwCWZpbGU6U2NhZGEgU3lzdGVtXzQuMi4xX3g2NC1zZXR1cC5leGUKSlhwTU1HUXEvWGw1MkwraE9KWmJJU2daLzhXcGI3d3dGQm9PaE9mVnNObkd6c24zWFc4dkdlSllDUGlNOXIrZjZiUWt5VDZqMnVUWm1ReG1VWXhkQXc9PQo=",
-            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.2.1/Scada.System_4.2.1_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MVBDTUZoTHlvMm9hTVcrQ0NpUEN1ZklDUE5NT01USFM0Y3NuZlEwVlNHbHYrV0R3UllwSldTWVdGdjBZM3RUZk9kQXJsUGprZnFvbG5JUlRSRFRyZkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTc4NDg4CWZpbGU6U2NhZGEgU3lzdGVtXzQuMi4yX3g2NC1zZXR1cC5leGUKRGw5bVlmZjM1bmFiYnJRbUFtK1BUU0FWUXE5Q2hEeTRPcFV3L0xTams5VldWQUN0UTBjK014S2RuM3J2TEhhTnRoZmFQOWNiRG1PdVZFNVVLcndXQlE9PQo=",
+            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.2.2/Scada.System_4.2.2_x64-setup.exe"
         },
         "linux-x86_64": {
             "signature": "NỘI_DUNG_FILE_.sig_CỦA_BẢN_LINUX",
