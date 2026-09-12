@@ -1,6 +1,6 @@
 {
     "version": "4.2.2",
-    "notes": "EthernetIP Driver",
+    "notes": "Add Component NodeRed Dashboard",
     "pub_date": "2026-09-10T19:00:00Z",
     "platforms": {
         "windows-x86_64": {
