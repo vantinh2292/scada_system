@@ -1,11 +1,11 @@
 {
-    "version": "4.2.4",
+    "version": "4.2.5",
     "notes": "Add Component NodeRed Dashboard - Fix Fins Driver",
     "pub_date": "2026-09-10T19:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MU5ET2J3SHd0SElFTERudHIwMXJQdytYYkpOK2xzemVsRzh1TmlDVzJKK3RLWm1McmZyd2JTWC9Wai9rc0lKUUpFcHl5KzFGUGVvSGY5NXBPRE9xTFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjA1MTkwCWZpbGU6U2NhZGEgU3lzdGVtXzQuMi40X3g2NC1zZXR1cC5leGUKZjhGRUxYclZrOXZMZWc1Tmd6MlA3V1psUkltamljSnF5RUdPTzgxdkdWOW45clZrYzRHOWpUNURhRkN6SVdaZTlKS2pxTkJPRnRaZ2tUK00rTHhLQUE9PQo=",
-            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.2.4/Scada.System_4.2.4_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MUZVN1ZpdW5lUDVNdkU2Wjhoa3hJVzFYRW9OZUgxa213OVRNSGhFVUl3Uzl6NXNpcmc1bDNWUWhKdm13cFo3aWlHS1QrSVR3MjJqd01rMmlRbFkrMlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjc3MjY2CWZpbGU6U2NhZGEgU3lzdGVtXzQuMi41X3g2NC1zZXR1cC5leGUKRWdjZFgxNlpqNmQvV3VobXdNQlJBWkhyd09yMkNYd01JVFc1NlVaSFJ3aGQ1a3o4WG9rMURXRGt1eUlxQnBKTytVdG9yclF3dHlJcmlna2QrbC9OQVE9PQo=",
+            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.2.5/Scada.System_4.2.5_x64-setup.exe"
         },
         "linux-x86_64": {
             "signature": "NỘI_DUNG_FILE_.sig_CỦA_BẢN_LINUX",
