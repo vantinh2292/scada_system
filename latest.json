@@ -1,11 +1,11 @@
 {
-    "version": "4.9.5",
-    "notes": "4.9.5",
-    "pub_date": "2026-11-08T21:00:00Z",
+    "version": "4.9.6",
+    "notes": "4.9.6",
+    "pub_date": "2026-11-11T21:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MUZsQmhpam4wMlNXaGFkNUtRckNCUm1zZUJ1eEhURmVrK2JBUjE4WHdqcUJHOGVFYmhMQlhNSlVCaVlrQ3NjL2VJZmR2NVlQZUx5NzVBTUFmblN1NGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzEwMjYyCWZpbGU6U2NhZGEgU3lzdGVtXzQuOS41X3g2NC1zZXR1cC5leGUKREpCYmx0cVNsNmlUVS9sL2lsL0hWdXdEcFV3NzlRTmt1RmxIL3hxd3hjdUxwLzFnNHlUY0UvWXV6UDM0cUpweUdiQ01tOEtwNytseUVtak9KZVJZRGc9PQo=",
-            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.9.5/Scada.System_4.9.5_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZHUxTGg3V042MUVyc24xeGpRUk10c2EwNkIzYnBFS0VwUDFzV0dmQnZ4TjZXOVMxbmxnci9Wcy84NWVWeEhoTFVINlFiZ2RQUnJRYjBVL2FIK3hDQXlVSU1MTXQ2UHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ3NzkzCWZpbGU6U2NhZGEgU3lzdGVtXzQuOS42X3g2NC1zZXR1cC5leGUKNXlTbGRjVXlqMS9TdEx1V2pRa1lSYWxhNEFzUGFueFpQdXB5K0xuUitSVzEwUFRJZ1pNS0JvSm9hVS9BcE9LdTRINERTaGFqM0NrRlNxYTNHOGU0RFE9PQo=",
+            "url": "https://github.com/vantinh2292/scada_system/releases/download/v4.9.6/Scada.System_4.9.6_x64-setup.exe"
         },
         "linux-x86_64": {
             "signature": "NỘI_DUNG_FILE_.sig_CỦA_BẢN_LINUX",
